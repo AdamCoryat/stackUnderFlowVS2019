@@ -12,6 +12,7 @@ namespace StackUnderFlow.Models
       bool isValid = true;
       if (string.IsNullOrWhiteSpace(Name)) isValid = false;
       if (string.IsNullOrWhiteSpace(Email)) isValid = false;
+      return isValid;
     }
   }
 }
