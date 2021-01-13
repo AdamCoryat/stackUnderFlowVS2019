@@ -1,4 +1,4 @@
-namespace Stack.Models
+namespace StackUnderFlow.Models
 {
     public class Response
     {

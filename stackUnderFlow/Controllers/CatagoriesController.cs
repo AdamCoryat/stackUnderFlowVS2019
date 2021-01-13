@@ -4,10 +4,10 @@ using System.Threading.Tasks;
 using CodeWorks.Auth0Provider;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Stack.Models;
-using Stack.Services;
+using StackUnderFlow.Models;
+using StackUnderFlow.Services;
 
-namespace Stack.Controllers
+namespace StackUnderFlow.Controllers
 {
   [ApiController]
   [Route("/api/[controller]")]

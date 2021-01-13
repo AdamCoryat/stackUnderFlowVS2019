@@ -1,7 +1,7 @@
-using Stack.Models;
-using Stack.Repositories;
+using StackUnderFlow.Models;
+using StackUnderFlow.Repositories;
 
-namespace Stack.Services
+namespace StackUnderFlow.Services
 {
   public class ProfilesService
   {

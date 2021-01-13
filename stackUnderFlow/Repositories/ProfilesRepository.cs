@@ -1,8 +1,8 @@
 using System.Data;
-using Stack.Models;
+using StackUnderFlow.Models;
 using Dapper;
 
-namespace Stack.Repositories
+namespace StackUnderFlow.Repositories
 {
   public class ProfilesRepository
   {

@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Data;
 using System.Linq;
 using Dapper;
-using Stack.Models;
+using StackUnderFlow.Models;
 
-namespace Stack.Repositories
+namespace StackUnderFlow.Repositories
 {
   public class QuestionsRepository
   {
